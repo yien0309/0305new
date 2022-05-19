@@ -1,0 +1,13 @@
+.container {
+	width: 1000px;
+	padding-right: auto;
+	padding-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+body header h1 {
+	color: #907A51;
+	text-align: center;
+	font-size: 41px;
+}
